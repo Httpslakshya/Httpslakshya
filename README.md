@@ -101,7 +101,3 @@
 </p>
 
 
-<p align="center">
-  🔗 <a href="https://lakshyadharkar.netlify.app" target="_blank"><b>Visit my portfolio</b></a>
-</p>
-
