@@ -8,7 +8,7 @@
   </a>
 </h1>
 
-<!-- pull shark test -->
+
 
 ## 👨‍💻 About Me
 
@@ -18,7 +18,7 @@
 
 - 🎓 Computer Science student  
 - 💻 I'm Full-Stack Developer 
-- 🤖 Exploring **AI / ML**, automation & intelligent systems  
+- 🤖 Exploring **AI / ML**,  intelligent systems & how AI works  
 - 🧪 I learn by **building, breaking, and rebuilding**  
 - 🌱 Improving **DSA, system thinking & ML fundamentals**  
 - 🎧 Coding with **classic tracks, hip-hop & late-night focus playlists**  
