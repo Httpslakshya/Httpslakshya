@@ -19,7 +19,7 @@ jobs:
           github_user_name: Httpslakshya
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg
+            dist/github-snake-dark.svg?palette=github-dark&background=transparent
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
