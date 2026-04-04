@@ -19,8 +19,8 @@ I pick ideas that genuinely interest me, build them end-to-end, and figure thing
 
 ## Currently Deep In
 
-* **Full-Stack GenAI** — RAG pipelines, LLM-powered backends, prompt engineering
-* **Agentic AI** — Autonomous agents, multi-step reasoning, tool usage
+* **Full-Stack GenAI** : RAG pipelines, LLM-powered backends, prompt engineering
+* **Agentic AI** : Autonomous agents, multi-step reasoning, tool usage
 
 
 ## Tech Stack
