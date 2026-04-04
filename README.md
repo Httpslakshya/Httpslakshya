@@ -1,55 +1,61 @@
-# Hi, I'm Lakshya Dharkar 👋
+<div align="center">
 
-Full-Stack Developer · AI/ML Enthusiast · Building things that make sense
+<h1>Lakshya Dharkar</h1>
 
----
+<p>Full-Stack Developer &nbsp;·&nbsp; AI/ML Explorer &nbsp;·&nbsp; Agentic Systems</p>
 
-## 👨‍💻 About Me
-
-- 🎓 Computer Science student
-- 💻 Full-Stack Developer with a focus on clean, user-first experiences
-- 🤖 Exploring **AI / ML**, intelligent systems & how AI works
-- 🌱 Sharpening **DSA, system design & ML fundamentals**
-- 🧪 I learn by **building, breaking, and rebuilding**
-- 🧠 I enjoy working **end-to-end** — from idea to deployed product
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,mysql,mongodb,git,github,vscode" />
+Computer science student who learns by building — not by reading about it.
+I pick ideas that genuinely interest me, build them end-to-end, and figure things out along the way.
+Currently going deep on AI — how to build with it, and how to make it act autonomously.
+
+---
+
+### Currently Deep In
+
+**Full-Stack GenAI** — Building AI-native apps: RAG pipelines, LLM-powered backends, prompt engineering.
+
+**Agentic AI** — Autonomous agents, multi-step reasoning, tool use — how AI moves from *answering* to *actually doing*.
+
+---
+
+### Tech Stack
+
+| Area | Skills |
+|---|---|
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Backend** | Node.js, Python, Java |
+| **AI / ML** | Python, TensorFlow |
+| **Designing** | Figma, Canva |
+| **Database** | MySQL, MongoDB |
+| **Tools & DevOps** | Docker, Git, GitHub, Linux |
+
+---
+
+### What I'm Working Toward
+
+- Build interesting full-stack projects that push me to learn something new every time
+- Apply AI/ML to projects in ways that actually make them smarter
+- Get comfortable with agentic systems and how they're built
+- Strengthen DSA and system design thinking through consistent practice
+
+---
+
+<div align="center">
+<i>"build it. break it. understand it."</i>
+</div>
+
+
+<div align="center">
+<p>
+  <a href="https://lakshyadharkar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ea8c2a?style=flat-square&logo=googlechrome&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/lakshya-dharkar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://dev.to/lakshyadharkar_404"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" /></a>&nbsp;
+  <a href="https://leetcode.com/LakshyaDharkar"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
-
----
-
-## 🚀 What I'm Focused On
-
-- **Full-Stack Projects** — building complete, production-ready web apps
-- **AI/ML Exploration** — applying ML concepts to real-world problems
-- **DSA & System Thinking** — writing efficient, well-structured code
-- **Open Source** — contributing and learning in public
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Httpslakshya">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/lakshya-dharkar">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://dev.to/lakshyadharkar_404">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/LakshyaDharkar">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sm.lakshya_404">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
-
-> *"Learning. Building. Refining."*
+</div>
