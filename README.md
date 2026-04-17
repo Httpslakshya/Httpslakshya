@@ -2,7 +2,7 @@
 
 # Lakshya Dharkar
 
-**Full-Stack Developer · AI/ML Explorer · Agentic Systems**
+**Full-Stack Developer · AI/ML Explorer · AI Automations**
 
 </div>
 
