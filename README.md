@@ -29,7 +29,7 @@ I pick ideas that genuinely interest me, build them end-to-end, and figure thing
 * **Frontend:** HTML, CSS, JavaScript, React
 * **Backend:** Node.js, Python, Java
 * **Databases:** MySQL, MongoDB
-* **Tools & DevOps:** Docker, Git, GitHub, Linux
+* **Tools & DevOps:** Docker, Git, GitHub, Linux ,Hugging Face
 * **Design:** Figma, Canva
 
 
