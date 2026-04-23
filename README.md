@@ -2,7 +2,7 @@
 
 # Lakshya Dharkar
 
-**Full-Stack Developer · AI/ML Explorer · Ai Agents**
+**Full-Stack Developer · AI/ML Explorer · Ai Automations**
 
 </div>
 
@@ -40,6 +40,7 @@ I pick ideas that genuinely interest me, build them end-to-end, and figure thing
 * Applying AI/ML in meaningful, practical ways
 * Understanding and building agentic systems
 * Improving DSA and system design thinking
+* Create ai agents to automate thing
 
 
 <br>
